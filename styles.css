@@ -116,7 +116,7 @@ section h2 {
     justify-content: flex-start;
 }
 
-@media screen and (min-width: 700px) {
+@media screen and (min-width: 340px) {
     body {
         padding-top: 80px;
     }
